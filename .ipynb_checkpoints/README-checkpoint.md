@@ -3,8 +3,4 @@
 ## Things I want to do with AI
 * Have fun
 * Take over the world
-
-## my new changes
-* One
-* two
-* three
+A repo for ideas on ai
